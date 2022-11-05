@@ -6,10 +6,9 @@ const  { indonesia, english, spanyol} = require(`./language`)
 global.APIs = {
 	alfa: 'https://alphabot-api.herokuapp.com', //apabila link api eror, segera laporkan ke owner
 }
-
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://alphabot-api.herokuapp.com': 'CbFJFL7i',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://alphabot-api.herokuapp.com': 'V16',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
